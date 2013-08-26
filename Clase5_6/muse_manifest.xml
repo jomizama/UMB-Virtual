@@ -1,0 +1,36 @@
+<manifest alg="2" build="751" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="114823713"/>
+    <file name="master_a-master.css" crc="327528048" ref="index:ilustracion:diseno-web:contacto:servicios:editorial"/>
+    <file name="index.css" crc="240314718" ref="index"/>
+    <file name="ilustracion.css" crc="3966761594" ref="ilustracion"/>
+    <file name="diseno-web.css" crc="3966761594" ref="diseno-web"/>
+    <file name="contacto.css" crc="217694019" ref="contacto"/>
+    <file name="servicios.css" crc="4059793521" ref="servicios"/>
+    <file name="editorial.css" crc="4211464049" ref="editorial"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:servicios:contacto:diseno-web:editorial:ilustracion"/>
+    <file name="museutils.js" crc="3885830161" ref="index:servicios:contacto:diseno-web:editorial:ilustracion"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:servicios:contacto:diseno-web:editorial:ilustracion"/>
+    <file name="jquery.tobrowserwidth.js" crc="4262060562" ref="index:servicios:contacto:diseno-web:editorial:ilustracion"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:servicios:contacto:diseno-web:editorial:ilustracion"/>
+    <file name="pie.js" crc="4147615982" ref="contacto"/>
+    <file name="webpro.js" crc="4369767" ref="contacto"/>
+    <file name="musewpslideshow.js" crc="83045620" ref="contacto"/>
+    <file name="jquery.museoverlay.js" crc="3925244142" ref="contacto"/>
+    <file name="touchswipe.js" crc="261777990" ref="contacto"/>
+    <file name="jquery.scrolleffects.js" crc="496362122" ref="editorial"/>
+  </folder>
+  <folder name="images">
+    <file name="smallflower.jpg" crc="9315598" ref="contacto"/>
+    <file name="bigflower.jpg" crc="207004446" ref="contacto"/>
+    <file name="leaves.jpg" crc="462778311" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="152228979" mt="1376660137001"/>
+  <file name="servicios.html" crc="420446124" mt="1376660491368"/>
+  <file name="contacto.html" crc="3900867543" mt="1376661493978"/>
+  <file name="diseno-web.html" crc="3802452648" mt="1376659503135"/>
+  <file name="editorial.html" crc="3823203931" mt="1376661135773"/>
+  <file name="ilustracion.html" crc="4242136173" mt="1376659503150"/>
+</manifest>

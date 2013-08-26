@@ -1,0 +1,172 @@
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 437px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 63px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u89-11
+{
+	z-index: 8;
+	width: 124px;
+	min-height: 156px;
+	font-size: 30px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 92px;
+	left: 36px;
+}
+
+#pu78-4
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 74px;
+	left: 351px;
+}
+
+#u78-4
+{
+	z-index: 4;
+	width: 124px;
+	min-height: 32px;
+	font-size: 30px;
+	position: relative;
+}
+
+#u79-4
+{
+	z-index: 19;
+	width: 124px;
+	min-height: 32px;
+	font-size: 30px;
+	margin-top: 757px;
+	position: relative;
+}
+
+#u82-4
+{
+	z-index: 24;
+	width: 124px;
+	min-height: 32px;
+	font-size: 30px;
+	margin-top: 727px;
+	position: relative;
+}
+
+#ppu76
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 480px;
+}
+
+#pu76
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u76
+{
+	z-index: 2;
+	width: 401px;
+	height: 742px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 16px;
+}
+
+#cuadro1
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 19px;
+}
+
+#u80
+{
+	z-index: 3;
+	width: 401px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	padding-bottom: 720px;
+	margin-left: 16px;
+	margin-top: 50px;
+	position: relative;
+}
+
+#cuadro2
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: -1px;
+}
+
+#pu81
+{
+	width: 0.01px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u81
+{
+	z-index: 23;
+	width: 401px;
+	height: 742px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 16px;
+}
+
+#cuadro3
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 15px;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

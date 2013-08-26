@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iden",
+				"identificacion"
+			],
+			[
+				"getele",
+				"getElementById	jsDOM"
+			],
+			[
+				"function",
+				"isFunction	jQuery"
+			],
+			[
+				"l",
+				"length	jQuery"
+			],
+			[
+				"bo",
+				"bool"
+			],
+			[
+				"post",
+				"posts_per_page"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"em",
+				"emCalc"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"trans",
+				"transformacion"
+			],
+			[
+				"ba",
+				"background-origin"
+			],
+			[
+				"eo",
+				"embedded-opentype"
+			],
+			[
+				"Mouse",
+				"MouseOver"
+			],
+			[
+				"input",
+				"input	input - datetime"
+			],
+			[
+				"inpu",
+				"input	input - url"
+			],
+			[
+				"p",
+				"p	<p>"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"attr",
+				"attr-Atributo"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-origin"
+			],
+			[
+				"repeat",
+				"repeat-y"
+			],
+			[
+				"nav",
+				"nav_aside"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"blue",
+				"bg_blue"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"boer",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"blue_",
+				"blue_body"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"gree",
+				"green_dark"
+			],
+			[
+				"doctype",
+				"doctype	DOCTYPE HTML"
+			],
+			[
+				"menu",
+				"menu_bg"
+			],
+			[
+				"green",
+				"green"
+			],
+			[
+				"fig",
+				"figcaption	<figcaption>"
+			],
+			[
+				"ver",
+				"Verdana"
+			],
+			[
+				"B",
+				"Bebas"
+			],
+			[
+				"top",
+				"top-bar"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"div",
+				"divider	divider"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"line",
+				"line_comments"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"un",
+				"upper-roman"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"letter",
+				"letter: letter-spacing: px"
+			],
+			[
+				"display",
+				"display: display: block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"sn",
+				"Snippet: CDATA"
+			],
+			[
+				"htm	",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"hello",
+				"Snippet: hello"
+			],
+			[
+				"helo",
+				"Snippet: hello"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"alig",
+				"Package Control: List Packages"
+			],
+			[
+				"snippet",
+				"Snippet: submit_tag"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 95.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Portatil/Desktop/brownie/Brownie2/portfolio_2_cols.html",
+		"/Users/Portatil/Desktop/brownie/Brownie2/portfolio_4_cols.html",
+		"/Users/Portatil/Desktop/brownie/Brownie2/portfolio_3_cols.html",
+		"/Users/Portatil/Desktop/brownie/Brownie2/js/all-in-one.js",
+		"/Users/Portatil/Desktop/brownie/Brownie2/css/style.css",
+		"/Users/Portatil/Desktop/brownie/Brownie2/index.html",
+		"/Users/Portatil/Desktop/brownie/Brownie2/html_prueba.html",
+		"/Users/Portatil/Library/Application Support/Sublime Text 2/Packages/User/link.sublime-snippet",
+		"/Users/Portatil/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Portatil/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Portatil/Desktop/brownie/html/portfolio_with_Sidebar.html",
+		"/Users/Portatil/Desktop/brownie/html/elements.html",
+		"/Users/Portatil/Desktop/brownie/html/blog_single.html",
+		"/Users/Portatil/Desktop/brownie/html/portfolio_3_cols.html",
+		"/Users/Portatil/Desktop/brownie/html/full_width.html",
+		"/Users/Portatil/Desktop/brownie/html/pricing_4_cols.html",
+		"/Users/Portatil/Desktop/brownie/html/portfolio_4_cols.html",
+		"/Users/Portatil/Desktop/brownie/html/js/setup.js",
+		"/Users/Portatil/Desktop/brownie/html/contact.php",
+		"/Users/Portatil/Desktop/brownie/html/js/html5.js",
+		"/Users/Portatil/Desktop/brownie/html/index.html",
+		"/Users/Portatil/Desktop/Sea/gradient.svg",
+		"/Users/Portatil/Desktop/Sea/barco.svg",
+		"/Users/Portatil/Desktop/Javascript_Luis/variables.html",
+		"/Users/Portatil/Desktop/Javascript_Luis/objetos.js",
+		"/Users/Portatil/Desktop/Javascript_Luis/main.js",
+		"/Users/Portatil/Desktop/Javascript_Luis/switch.js",
+		"/Users/Portatil/Desktop/Javascript_Luis/mi_suma.js",
+		"/Users/Portatil/Desktop/Javascript_Luis/matrices.js",
+		"/Users/Portatil/Desktop/Javascript_Luis/script.js",
+		"/Users/Portatil/Desktop/Javascript_Luis/script2.js",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/sass/app.scss",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/robots.txt",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/MIT-LICENSE.txt",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/index.html",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/humans.txt",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/config.rb",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/favicon.ico",
+		"/Users/Portatil/Documents/Trabajos/moveo/landing/stylesheets/app.css",
+		"/Users/Portatil/Documents/foundation-4.3.1/contacto.html",
+		"/Users/Portatil/Documents/foundation-4.3.1/index.html",
+		"/Users/Portatil/Documents/foundation-4.3.1/js/foundation.min.js",
+		"/Users/Portatil/Desktop/Prubea/demo.html",
+		"/Users/Portatil/Desktop/Prubea/prueba.js",
+		"/Users/Portatil/Desktop/index.html",
+		"/Users/Portatil/Desktop/AppHemofilia - v1.2/www/content/recomendaciones.html",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/sass/app.scss",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/Video.html",
+		"/Users/Portatil/Desktop/AppHemofilia - v1.2/AppHemofilia/config.xml",
+		"/Users/Portatil/Desktop/AppHemofilia - v1.2/AppHemofilia/AppHemofilia-Info.plist",
+		"/Users/Portatil/Desktop/demo/www/content/recomendaciones.html",
+		"/Users/Portatil/Desktop/demo/demoD/config.xml",
+		"/Users/Portatil/Desktop/demo/demoD/demoD-Info.plist",
+		"/Users/Portatil/Desktop/phonegap-2.9.0/lib/ios/FirstRun.md",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/index.html",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/templates/blog.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/searchform.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/content-single.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/content.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/functions.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/footer.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/loop.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/servicios.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/comments.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/content-page.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/content-aside.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/style.css",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/templates/sidebar-left.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/templates/servicios.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/page.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/sidebar.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/header.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/home.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/templates/full-page.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/index.php",
+		"/Users/Portatil/localhost/r/wp-content/themes/realistik/css/foundation.min.css",
+		"/Users/Portatil/localhost/r/wp-content/themes/Foundation-master/style.css",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/humans.txt",
+		"/Users/Portatil/Desktop/990.html",
+		"/Users/Portatil/localhost/r/wp-content/themes/Foundation-master/header.php",
+		"/Applications/MAMP/htdocs/r/wp-config.php",
+		"/Users/Portatil/Desktop/wordpress/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/62d361b7-cc07-43a2-90b0-22def4726e37/index.html",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/82a6c239-766f-4906-b966-1f257a7be34d/index.html",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/stylesheets/app.css",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/realistik.sublime-project",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/sass/_settings.scss",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/sass/_mediaqueries.scss",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/sass/config.rb",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/sass/_style.scss",
+		"/Users/Portatil/Desktop/foundation-alfred-master/README.md",
+		"/Users/Portatil/Desktop/canvas.html",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/config.rb",
+		"/Users/Portatil/Documents/Trabajos/Pueblito de dios/Web/config.rb",
+		"/Users/Portatil/Documents/Trabajos/Pueblito de dios/Web/scss/_settings.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/plm/index.html",
+		"/Users/Portatil/Documents/Trabajos/Realistik/web/sass/_nav.scss",
+		"/Users/Portatil/Downloads/animate-custom.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/r/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pma/index.html",
+		"/Users/Portatil/Desktop/hola_mundo.html",
+		"/Users/Portatil/Desktop/pma/index.html",
+		"/Users/Portatil/Desktop/pma/LICENSE.md",
+		"/Users/Portatil/Desktop/pma/doc/faq.md",
+		"/Users/Portatil/Desktop/pma/doc/css.md",
+		"/Users/Portatil/Desktop/pma/css/normalize.css",
+		"/Users/Portatil/Desktop/pma/css/main.css",
+		"/Users/Portatil/Desktop/pma/CONTRIBUTING.md",
+		"/Users/Portatil/Desktop/pma/CHANGELOG.md",
+		"/Users/Portatil/Desktop/hola_mundo",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/config.rb",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/sass/app.scss",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/sass/config.rb",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/index.html",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/sass/_settings.scss",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/robots.txt",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/MIT-LICENSE.txt",
+		"/Users/Portatil/Documents/Trabajos/Naranjas/Web/humans.txt",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/30cbf0e1-e177-4ad0-9cbf-a251efd3bcad/public_html/emmanuelfc.co/tienda.html",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/30cbf0e1-e177-4ad0-9cbf-a251efd3bcad/public_html/emmanuelfc.co/multimedia.html",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/30cbf0e1-e177-4ad0-9cbf-a251efd3bcad/public_html/emmanuelfc.co/emmanuel.html",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/30cbf0e1-e177-4ad0-9cbf-a251efd3bcad/www/emmanuelfc.co/emmanuel.html",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/30cbf0e1-e177-4ad0-9cbf-a251efd3bcad/www/emmanuelfc.co/index.html",
+		"/private/var/folders/rr/09zm4gbd16v46hf887fxlj9m0000gn/T/30cbf0e1-e177-4ad0-9cbf-a251efd3bcad/www/emmanuelfc.co/multimedia.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/jQuery/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/jQuery/js/main.js",
+		"/Users/Portatil/Desktop/Refribreak Beta/index.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/Portatil/Desktop/brownie/Brownie2/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li",
+			"js",
+			"href",
+			"features",
+			"caracteristicas",
+			"features",
+			"class",
+			"typogra",
+			"Rubieano",
+			"div",
+			"aside",
+			"sidebar",
+			"aside",
+			"wp-content",
+			"title",
+			"header",
+			"img/",
+			"p",
+			"P",
+			"p",
+			"p class=\"postmetadata\"",
+			"6",
+			"h2",
+			"img/",
+			"img",
+			"../",
+			"12",
+			"1",
+			"</strong>",
+			"<br>",
+			"row",
+			"165",
+			">\n",
+			"165",
+			"219",
+			"h6",
+			"center",
+			"timezone",
+			"time-zone",
+			"large-4",
+			"<strong>",
+			"h4",
+			"../",
+			"=\"\"",
+			"Trabajo",
+			"Trabajo1",
+			"12",
+			"columns\"",
+			"columns",
+			".toggle",
+			"top",
+			"toogle",
+			"blue",
+			"red",
+			", consectetur adipisicing elit.",
+			"p",
+			"175",
+			"header",
+			"ostrich-black-webfont",
+			"header",
+			"\"Ostrich\"",
+			"ostrich-regular-webfont",
+			"top",
+			"nav-bar",
+			"top-bar",
+			"	@",
+			"mqueries",
+			"mquer",
+			"topbar",
+			"top",
+			"media",
+			"gray",
+			"topbar",
+			"nav bgtopbar",
+			"nav bg",
+			"bg",
+			"active",
+			"top bar",
+			"class=\"panel\"",
+			"Comer",
+			"fb",
+			"orbit",
+			"data",
+			"bullets",
+			"perse",
+			"perseverancia",
+			"responsabilidad",
+			"emmanuelfc",
+			"#2BA6CB",
+			"buttons",
+			"h6",
+			"http://placehold.it/250x250&text=Thumbnail",
+			"img",
+			"15",
+			"	\n",
+			"fast",
+			"event",
+			"client",
+			"Airstream",
+			"AirstreamRegular",
+			"1.2",
+			"60",
+			"2",
+			"180deg",
+			"10deg",
+			"50px",
+			"100",
+			"dotted",
+			"solid",
+			"3",
+			"Chunkfive",
+			"red",
+			"blue",
+			"2s",
+			"-6px",
+			"class",
+			"navegacion",
+			"space",
+			"border:",
+			"border: green",
+			"green",
+			"destacado",
+			"detacado",
+			"code",
+			"#emanuelito",
+			"center",
+			"text-al",
+			"emanuelito"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"features",
+			"caracteristicas",
+			"../wp-content",
+			"wp-content/themes/realistik/img/",
+			"/img/",
+			"wp-content/themes/realistik/img",
+			"wp-content/themes/realistik",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"js/setup.js"
+			],
+			[
+				"",
+				"full_width.html"
+			],
+			[
+				"pri",
+				"pricing_4_cols.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Portatil/Documents/Trabajos/Realistik/web/realistik.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}
